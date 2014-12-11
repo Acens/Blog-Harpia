@@ -1,0 +1,18 @@
+version 1.1 ( 10-24-2014 )
+- Fixed Pinterest Modal Images visibility issue
+- Fixed styling issues
+- Fixed OpenSans typo - the font was not being used
+	* css/style.css
+- Added % Height to "Add Network" modal window
+	* css/admin.css
+	* js/admin.js
+- Fixed the issue with cached share counts
+- Fixed Pinterest modal warning message, when no networks were selected
+	* monarch.php
+- Fixed the issue with automatic share counts, not properly calculated after a comment is made
+	* js/custom.js
+	* monarch.php
+
+version 1.0 ( 10-22-2014 )
+
+- Initial release
